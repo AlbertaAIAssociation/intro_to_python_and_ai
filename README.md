@@ -7,3 +7,5 @@
 [Week 2 slides](https://docs.google.com/presentation/d/1Hp_SDarwgDBP69VIyawQkau2nIGIfe0OZ7gKocaV0es/edit?usp=sharing)
 
 [Week 3 slides](https://docs.google.com/presentation/d/1iP1kM8BO6n0Q69jolSkYkHzdnkqwnnQOu08ekKUF_W0/edit?usp=sharing)
+
+[Week 4 slides](https://docs.google.com/presentation/d/17_7ENydpwqDhkTL67ozDIC2yLd1H12oPvq0rP5Jn8yA/edit?usp=sharing)
